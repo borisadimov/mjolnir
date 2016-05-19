@@ -1,0 +1,7 @@
+{
+  "name": "example-app",
+  "version": "0.0.1",
+  "description": "Example app for Mjolnir.",
+  "scripts": {},
+  "author": "Boris Adimov"
+}

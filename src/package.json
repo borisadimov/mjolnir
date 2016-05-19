@@ -1,0 +1,17 @@
+{
+  "name": "mjolnir",
+  "version": "0.0.1",
+  "description": "HTML5 building tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "html5",
+    "bundler",
+    "webpack",
+    "hammer"
+  ],
+  "author": "Boris Adimov",
+  "license": "ISC"
+}
